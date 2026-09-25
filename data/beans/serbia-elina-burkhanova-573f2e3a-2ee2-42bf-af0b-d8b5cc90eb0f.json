@@ -1,0 +1,25 @@
+{
+  "title": "Elina Burkhanova",
+  "country": "Serbia",
+  "description": "Test description",
+  "roasterComment": "",
+  "imageUrl": "assets/flags/et.svg",
+  "details": {
+    "process": "Washed",
+    "region": "Novi Sad",
+    "variety": [
+      ""
+    ],
+    "scaScore": 0.4
+  },
+  "flavorProfile": {
+    "notes": [
+      ""
+    ],
+    "acidity": 5,
+    "sweetness": 5,
+    "bitterness": 5
+  },
+  "id": "573f2e3a-2ee2-42bf-af0b-d8b5cc90eb0f",
+  "recipes": []
+}

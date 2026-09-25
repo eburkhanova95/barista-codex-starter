@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="bg">
+  <file id="f1">
+    <unit id="ui.myBeans">
+      <segment>
+        <source>My Beans</source>
+        <target>Моите Кафета</target>
+      </segment>
+    </unit>
+
+    <unit id="label.score">
+      <segment>
+        <source>SCA SCORE</source>
+        <target>SCA ТОЧКИ</target>
+      </segment>
+    </unit>
+    <unit id="label.process">
+      <segment>
+        <source>PROCESS</source>
+        <target>ОБРАБОТКА</target>
+      </segment>
+    </unit>
+    <unit id="label.region">
+      <segment>
+        <source>REGION</source>
+        <target>РЕГИОН</target>
+      </segment>
+    </unit>
+    <unit id="label.flavor">
+      <segment>
+        <source>Flavor Profile</source>
+        <target>Вкусов Профил</target>
+      </segment>
+    </unit>
+
+    <unit id="label.acidity">
+      <segment>
+        <source>Acidity</source>
+        <target>Киселинност</target>
+      </segment>
+    </unit>
+    <unit id="label.sweetness">
+      <segment>
+        <source>Sweetness</source>
+        <target>Сладост</target>
+      </segment>
+    </unit>
+    <unit id="label.bitterness">
+      <segment>
+        <source>Bitterness</source>
+        <target>Горчивина</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="f1">
+    <!-- UI Header -->
+    <unit id="ui.myBeans">
+      <segment>
+        <source>My Beans</source>
+        <target>My Beans</target>
+      </segment>
+    </unit>
+
+    <!-- Bento Grid Labels -->
+    <unit id="label.score">
+      <segment>
+        <source>SCA SCORE</source>
+        <target>SCA SCORE</target>
+      </segment>
+    </unit>
+    <unit id="label.process">
+      <segment>
+        <source>PROCESS</source>
+        <target>PROCESS</target>
+      </segment>
+    </unit>
+    <unit id="label.region">
+      <segment>
+        <source>REGION</source>
+        <target>REGION</target>
+      </segment>
+    </unit>
+    <unit id="label.flavor">
+      <segment>
+        <source>Flavor Profile</source>
+        <target>Flavor Profile</target>
+      </segment>
+    </unit>
+
+    <!-- Sliders -->
+    <unit id="label.acidity">
+      <segment>
+        <source>Acidity</source>
+        <target>Acidity</target>
+      </segment>
+    </unit>
+    <unit id="label.sweetness">
+      <segment>
+        <source>Sweetness</source>
+        <target>Sweetness</target>
+      </segment>
+    </unit>
+    <unit id="label.bitterness">
+      <segment>
+        <source>Bitterness</source>
+        <target>Bitterness</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
